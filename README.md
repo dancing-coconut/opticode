@@ -1,4 +1,4 @@
-# opticode
+# Opticode
 
 ## About
 
